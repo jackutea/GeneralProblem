@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 
 // DAO: Data Access Object
-namespace GP.DAOSample {
+namespace GP.L1 {
 
     internal struct RoleEntity {
         public int id;

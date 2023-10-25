@@ -1,4 +1,4 @@
-namespace GP.EncodingEasySample {
+namespace GP.L2 {
 
     public struct Color {
         byte r;

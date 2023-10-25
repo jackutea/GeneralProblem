@@ -1,4 +1,4 @@
-namespace GP.EncodingNormalSample {
+namespace GP.L3 {
 
     // Please implement following methods
     public static class Encoding_Normal {
