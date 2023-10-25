@@ -1,14 +1,15 @@
 using System;
 using System.Collections.Generic;
 
+// DAO: Data Access Object
 namespace GP.DAOSample {
 
     internal struct RoleEntity {
         public int id;
     }
 
-    // DAO: Data Access Object
     // Please implement following methods
+    // Allow to add fields
     internal class ReleDAO {
 
         void Add(RoleEntity role) {

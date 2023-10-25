@@ -15,6 +15,7 @@ namespace GP.EncodingHardSample {
     }
 
     // Please implement following methods
+    // NOTICE: Allow to add struct
     public static class Encoding_Hard {
 
         // input: RoleEntity

@@ -8,6 +8,7 @@ namespace GP.EncodingEasySample {
     }
 
     // Please implement following methods
+    // NOTICE: Allow to add struct
     public static class Encoding_Easy {
 
         // input: int
